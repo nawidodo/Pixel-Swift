@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/99fb63b8-2dc5-4d15-9fcb-39ae3f3b8b6f
    ```
 2. Clone the repository with Git LFS support:
    ```bash
-   git clone https://github.com/nawidodo/Pixel.git
+   git clone https://github.com/nawidodo/Pixel-Swift.git
    cd Pixel
    git lfs pull
    ```
