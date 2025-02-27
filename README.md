@@ -4,8 +4,7 @@ Pixel is an iOS app that allows users to adjust the temperature of their photos 
 
 ## Demo
 
-https://github.com/user-attachments/assets/99fb63b8-2dc5-4d15-9fcb-39ae3f3b8b6f
-
+https://github.com/user-attachments/assets/d2fcb929-4883-4a28-9cfc-6d0da7861cc7
 
 ## Features
 
@@ -32,7 +31,7 @@ https://github.com/user-attachments/assets/99fb63b8-2dc5-4d15-9fcb-39ae3f3b8b6f
 2. Clone the repository with Git LFS support:
    ```bash
    git clone https://github.com/nawidodo/Pixel-Swift.git
-   cd Pixel
+   cd Pixel-Swift
    git lfs pull
    ```
 3. Open `Pixel.xcodeproj` in Xcode
